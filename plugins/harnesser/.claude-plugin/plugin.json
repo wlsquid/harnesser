@@ -1,0 +1,5 @@
+{
+  "name": "harnesser",
+  "version": "0.1.0",
+  "description": "Captures 'never/don't' instructions as rule files in .claude/rules and flags requests that conflict with existing rules."
+}

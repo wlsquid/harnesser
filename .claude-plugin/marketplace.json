@@ -1,0 +1,11 @@
+{
+  "name": "harnesser",
+  "owner": { "name": "Harnesser" },
+  "plugins": [
+    {
+      "name": "harnesser",
+      "source": "./plugins/harnesser",
+      "description": "Captures 'never/don't' instructions as rule files and flags requests that conflict with existing rules."
+    }
+  ]
+}
