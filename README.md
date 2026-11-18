@@ -7,10 +7,13 @@ Claude Code plugin that:
 Rules it creates are signed `generated-by: harnesser`.
 
 ## Install
+
+Requires Node on PATH.
 ```
-/plugin marketplace add F:\repos\Harnesser
+/plugin marketplace add wlsquid/harnesser
 /plugin install harnesser@harnesser
 ```
+Restart Claude Code after installing. Update later with /plugin marketplace update harnesser.
 
 ## Manual rule
 `/harnesser:add-rule <text>`
